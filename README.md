@@ -15,7 +15,7 @@ I'm Social Science Division Research Fellow at [New York University Abu Dhabi (N
 - Learning Git, Regex, Web Scraping (Beautiful Soup, Selenium)
 - Making the first interactive map (plotly express, GeoPandas) and first $\LaTeX$ document
 - Integrating Stata with Python in Jupiter lab through Stata's API
-- Understanding Floating point system and numerical representation of numbers in computer memory (which explains, e.g. why $\sum{\frac{x_i}{n}}$ may not equal $\frac{1}{n}\sum{x_i}$ when manipulating data series, while it is true in Math theory)
+- Understanding Floating point system and representation of numbers in computer memory (which explains, e.g. why $\sum{\frac{x_i}{n}}$ may not equal $\frac{1}{n}\sum{x_i}$ when manipulating data series, while it is true in Math theory)
 - My fist 'real life' data project that supported an asynchronous university swim competition during Covid, because it combined community building, project management and coding 
 
 #### Fun facts ⚡ 
