@@ -7,7 +7,7 @@
 - I have always wanted to have a wholesome & laidback space online that could change as I would. This is it. 
 
 ### What is here
-- ➡️ My formal website https://github.com/ivanadr/ivanadr.github.io ⬅️
+- ➡️ My formal website https://ivanadr.github.io/ ⬅️
 - 🧑‍🔬 Website I co-created as a part of student interest group Women in STEM (WeSTEM) at New York University Abu Dhabi (NYUAD) https://github.com/ivanadr/westem-web-2022  
 - 📑 How to use a citation manager. Short resource list for my mentee on using Zotero https://github.com/ivanadr/capstone-citation-workflow
 - 🏊‍♀️ Virtual leaderboard for asynchronous swim competition during Covid pandemic. The aim was to incentivise students to do sports and combat sedentary behaviour amid online classes https://github.com/ivanadr/swim-leaderboard
