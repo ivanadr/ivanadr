@@ -10,7 +10,7 @@
 ### What is here
 - 🟫 My formal website https://ivanadr.github.io/
 
-- ➕ Inquries into math, stats, data sci, econometrics, python  https://ivanadr.github.io/math-curiosity 
+- ➕ Inquries into math, stats, data sci, econometrics, python  https://github.com/ivanadr/math-curiosity
 
 - 🧑‍🔬 Website I co-created as a part of student interest group Women in STEM (WeSTEM) at New York University Abu Dhabi (NYUAD) https://github.com/ivanadr/westem-web-2022  
 
